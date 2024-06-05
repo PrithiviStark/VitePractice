@@ -57,7 +57,7 @@ ul {
 .skill-list:hover {
   filter: drop-shadow(0 0 2em #eaff29);
   background-color: black;
-  color: thistle;
+  color: rgba(255, 255, 179, 0.3);
 }
 .skill-list {
   width: fit-content;
